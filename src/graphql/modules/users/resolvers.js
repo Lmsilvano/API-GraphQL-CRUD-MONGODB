@@ -29,7 +29,3 @@ export default {
         }
     }
 };
-//terceiro parametro context
-// retorno do delete é bolean
-//findByIdAndUpdate id(oque achar), data(oque trocar), flag retorno dados novos
-//o primeiro parametro (objeto de usuario)

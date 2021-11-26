@@ -21,6 +21,4 @@ type Mutation {
   deletePost(id: ID!): Boolean
 }
 
-# final): User! é o retorno
-# algumacoisa(RECEBE)
-# userInput para casos de repetição, variavel
+
