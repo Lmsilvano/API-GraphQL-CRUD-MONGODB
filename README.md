@@ -11,4 +11,4 @@
 
 
 ## Observações
-Utilizei o MongoDB em com docker para o exercício mas com as devidas adaptações é possível aplicar a outros bancos de dados.
+Utilizei o MongoDB com docker para o exercício mas com as devidas adaptações é possível aplicar a outros bancos de dados.
